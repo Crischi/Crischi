@@ -1,5 +1,5 @@
 # Acerca de mí...
-
+![This is me](https://github.com/Crischi/Crischi/blob/main/CV_img.jpg)
 
 
 ## 📫 CONTACTO:

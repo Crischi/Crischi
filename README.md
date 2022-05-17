@@ -12,16 +12,15 @@ https://www.linkedin.com/in/cristina-chiarri/
 ## :mortar_board: EDUCACIÓN:  
 **CICLO FORMATIVO DE GRADO SUPERIOR EN DESARROLLO DE APLICACIONES WEB**  
 **CEED CV**  
-🕖2019-ACTUALIDAD 
+🕖2019-ACTUALIDAD  
 A falta de realizar FCT y Proyecto de Fin de Ciclo.
 
 **DIPLOMATURA EN TRABAJO SOCIAL**  
-**Universitat de València**
+**Universitat de València**  
 🕖2000-2003  
 
-
 **BREVET DES COLLÈGES ET BACCALAURÉAT**  
-**Lycée Français de Valence**
+**Lycée Français de Valence**  
 🕖1987-2000  
 
 ***

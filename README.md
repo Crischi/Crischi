@@ -27,8 +27,8 @@ A falta de realizar FCT y Proyecto de Fin de Ciclo.
 
 ## 📚 CONOCIMIENTOS:
 Lenguages: JAVA, PHP, PYTHON, JavaScript, HTML5, CSS3, Sass, JSON, XML, SQL, PL/SQL
-Metodologías: TDD Test-Driven Development , Programación Funcional
-Frameworks/bibliotecas: Laravel, Vuejs, CodeIgniter, Bootstrap, Webpack, Jest, Blade
+Metodologías: TDD Test-Driven Development , Programación Funcional, Scrum
+Frameworks/bibliotecas: Laravel, Vuejs, Angular, CodeIgniter, Bootstrap, Webpack, Jest, Blade
 Herramientas: Visual Studio Code, Node.js, Netbeans, GitHub, GitLab MySQL/phpMyAdmin,Docker, Heroku
 Servicios: API REST, SOAP
 OS: Windows, LINUX
